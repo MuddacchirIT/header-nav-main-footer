@@ -16,3 +16,13 @@ nav li a{
     text-decoration: none;
 }
 
+/* Main */
+article img{
+    width: 100%;
+}
+
+
+footer{
+    text-align: center;
+    color: brown;
+}
